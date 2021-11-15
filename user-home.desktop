@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Exec=pcmanfm-qt /home/abdollahi
+Icon=user-home
+Name=abdollahi
